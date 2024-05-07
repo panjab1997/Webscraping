@@ -1,4 +1,4 @@
-# Basic Steps to follow Web scrapping using python
+# Basic Steps to do Web scrapping using python
 
 ### Required Libraries
 1) BeautifulSoup
